@@ -24,7 +24,7 @@ The following environments are supported:
     <parent>
         <groupId>com.stelesoft</groupId>
         <artifactId>java-ide-settings</artifactId>
-        <version>0.1.0-SNAPSHOT</version>
+        <version>0.1.0</version>
         <relativePath>./java-settings/pom.xml</relativePath>
     </parent>
 ```
